@@ -1,0 +1,12 @@
+# IDE
+.idea/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tableau temporary files (optional)
+*.tmp
+*.log
